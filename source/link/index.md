@@ -7,17 +7,19 @@ comments: false
 
 {% flink %}
 - class_name: 友情链接
-  class_desc: 那些人，那些事
-  link_list:
-    - name: Hundredsu'Blog
-      link: https://hundredsu.github.io/
-      avatar: https://hundredsu.github.io/img/avatar.jpg
-      descr: 本站的参考模板，感谢
+  class_desc: 欢迎交换友链
+  link_list: []
+  # 有朋友要加的时候，把 link_list 改成下面这样：
+  #   link_list:
+  #     - name: 站点名称
+  #       link: https://example.com
+  #       avatar: https://example.com/avatar.png
+  #       descr: 一句话简介
 {% endflink %}
 
 ## 交换友链
 
-想加友链的话，在评论区或 [GitHub](https://github.com/Zeroct0) 找我，提供下面几项信息即可：
+想加友链的话，来 [GitHub](https://github.com/Zeroct0) 找我，提供下面几项信息即可：
 
 | 字段 | 说明 |
 | --- | --- |
